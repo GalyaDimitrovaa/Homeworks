@@ -75,7 +75,7 @@ batch=BillBatch(values)
 print("Total bills: ", batch.total())
 
 
-# print(values[0])   # values[0]=10, values[1]=20 and etc
+print(values[0])   # values[0]=10, values[1]=20 and etc
 
 
 
